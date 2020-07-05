@@ -1,8 +1,13 @@
 import React from "react";
-import Counter from "./components/Counter";
+import { RecoilRoot } from "recoil";
+import TodoList from "./components/TodoList";
 
 function App() {
-  return <Counter />;
+  return (
+    <RecoilRoot>
+      <TodoList />
+    </RecoilRoot>
+  );
 }
 
 export default App;
