@@ -5,7 +5,7 @@ import SideMenu from "../../components/SideMenu";
 
 const Cards = () => {
   return (
-    <div className="card-layout">
+    <div>
       <SideMenu />
       <Details />
     </div>
