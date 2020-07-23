@@ -1,13 +1,8 @@
 import React from "react";
-import { RecoilRoot } from "recoil";
 import TodoList from "../../components/TodoList";
 
 const Todo = () => {
-  return (
-    <RecoilRoot>
-      <TodoList />
-    </RecoilRoot>
-  );
+  return <TodoList />;
 };
 
 export default Todo;
