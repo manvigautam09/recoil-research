@@ -1,24 +1,24 @@
 const contacts = [
   {
     id: 1,
-    name: "John Doe",
-    address: "42nd Street, Unknown",
+    name: "Kathy Green",
+    address: "42nd Street, Central Place",
     phone: "1111111111",
-    email: "john@doe.com",
+    email: "kathy@green.com",
   },
   {
     id: 2,
-    name: "Foo Bar",
-    address: "Neverland, Nevercity, Nevercountry",
+    name: "Mark Jackson",
+    address: "Greenland, Perk Country",
     phone: "2222222222",
-    email: "foo@bar.com",
+    email: "mark@Jackson.com",
   },
   {
     id: 3,
-    name: "Lorem Ipsum",
-    address: "Dummy street",
+    name: "Josphine Vellany",
+    address: "21st street, Fake City",
     phone: "3333333333",
-    email: "lorem@ipsum.com",
+    email: "josh@iko.com",
   },
 ];
 
